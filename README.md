@@ -94,6 +94,9 @@ $ ` python3.8 -m pip install Pillow`
 
 $ ` python3.8 -m pip install tensorflow`
 
+# Edit file /lib/Config.lua
+
+
 # Perform Token bot telegram section
 
 $ `cd AntiSpamTeleBot`
