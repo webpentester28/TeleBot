@@ -14,12 +14,8 @@ Follow the instructions below
 
 $ `git clone https://github.com/Raminsal/AntiSpamTeleBot/TeleBot`
 
-$ `unzip -q AntiSpamTeleBot.zip`
-
-
 Download File Open Nsfw Can be done via this Telegram channel
 
-https://t.me/TeleBot_team/2
 
 Download File Open TDlib So Version Lua5.3 Can be done via this Telegram channel
 
@@ -27,7 +23,7 @@ https://t.me/tdlua/104
 
 Install main packages
 
-$ `cd AntiSpamTeleBot`
+$ `cd AntiSpamTeleBot/TeleBot`
 
 $ `chmod +x *`
 
