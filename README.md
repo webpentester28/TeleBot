@@ -12,7 +12,7 @@ Follow the instructions below
 
 
 
-$ `git clone https://github.com/Raminsal/AntiSpamTeleBot`
+$ `git clone https://github.com/Raminsal/AntiSpamTeleBot/TeleBot`
 
 $ `unzip -q AntiSpamTeleBot.zip`
 
